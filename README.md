@@ -40,4 +40,3 @@ Go to the client directory and type the following command on the command line:
 
 This will run the server on the `PORT 8000`.
 
-## The detailed procedure of how to make your own MERN stack application will be uploaded on Medium soon. The link will be posted here.
