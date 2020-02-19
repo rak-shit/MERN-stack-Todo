@@ -26,7 +26,11 @@ This step finishes the setting up of the project locally
 
 ## To run the server:
 
-Go to the server directory and type the following command on the command line:
+Go to the server directory and type the following commands on the command line:
+
+`npm install`
+
+and
 
 `nodemon index.js`
 
@@ -35,6 +39,10 @@ This will run the server on the `PORT 3000`.
 ## To run the client:
 
 Go to the client directory and type the following command on the command line:
+
+`npm install`
+
+and
 
 `npm start`
 
