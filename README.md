@@ -28,10 +28,6 @@ This step finishes the setting up of the project locally
 
 Go to the server directory and type the following commands on the command line:
 
-`npm install`
-
-and
-
 `nodemon index.js`
 
 This will run the server on the `PORT 3000`.
